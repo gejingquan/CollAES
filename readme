@@ -1,1 +1,2 @@
-CollAES is a hardware/software co-design, which is an efficient AES implementation resistant to side-channel attacks on ARM-FPGA embedded SoC.
+CollAES is a hardware/software co-design. 
+It is an efficient AES implementation resistant to side-channel attacks on ARM-FPGA embedded SoC.
